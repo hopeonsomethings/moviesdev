@@ -1,3 +1,3 @@
-# my privateChat code
+#  My privateChat code
  here its my private chat, the real private chat, no data saved from anyone...
  we are going to make it full privacity and full security.
